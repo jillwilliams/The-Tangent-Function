@@ -20,7 +20,7 @@ h1 {
     border: 1px black solid;
     outline: 1px white solid;
 }
-#img1, #img2, #img3, #img4, #img5 {
+#img1, #img2, #img3, #img4, #img5, #img6, #img7, #img8 {
     width: 20%;
     height: auto;
     margin-left:40%;
@@ -29,6 +29,34 @@ h1 {
     margin-bottom: 15px;
     border: 1px black solid;
     outline: 1px white solid;
+}
+#myBtn {
+    width: 10%;
+    height: 60px;
+    margin-left:40%;
+    margin-right: 40%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px black solid;
+    outline: 1px white solid;
+    font-family: "Liu Jian Mao Cao", cursive;
+    font-size: 2rem;
+
+}
+#demo, #demo1, #demo2 {
+    width: 10%;
+    height: 60px;
+    margin-left:40%;
+    margin-right: 40%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px black solid;
+    outline: 1px white solid;
+    font-family: "Liu Jian Mao Cao", cursive;
+    font-size: 2rem;
+    background-color: white;
+    color: black;
+    text-align: center;
 }
 footer {
     text-align: center;
